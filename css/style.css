@@ -1,0 +1,83 @@
+.footerbg{
+background-color: #05334A;
+color: #faf0ea;
+
+
+}
+
+.herobg {
+background-color: #fff7ec ;
+
+
+
+}
+
+.fontwhite{
+color: #fff7ec ; 
+
+}
+
+.blackbg{
+background-color: #101409 ;
+
+}
+
+.fontpink{
+color: #c82266;
+
+
+
+
+}
+
+.pinkbg{
+background-color: #c82266;
+
+}
+
+.fontgreen{
+color: #00ffd0;
+
+}
+
+
+
+p {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+a {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+h5 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Athiti", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+h1 {
+  font-family: "Athiti", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: large;
+}
+
+h3 {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
